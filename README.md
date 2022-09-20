@@ -1,2 +1,2 @@
 # dwm
-My dwm config
+My dwm config with custom keybindings and patches.
